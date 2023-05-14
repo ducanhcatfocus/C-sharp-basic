@@ -1,7 +1,7 @@
 ﻿
 using System;
 
-namespace SystemTime{
+namespace SystemOperator{
     class Program{
         static void Main(string[] args){
            float width;

@@ -1,0 +1,15 @@
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\chuyen_doi_tien_te\obj\Debug\net7.0\chuyen_doi_tien_te.csproj.AssemblyReference.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\chuyen_doi_tien_te\obj\Debug\net7.0\chuyen_doi_tien_te.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\chuyen_doi_tien_te\obj\Debug\net7.0\chuyen_doi_tien_te.AssemblyInfoInputs.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\chuyen_doi_tien_te\obj\Debug\net7.0\chuyen_doi_tien_te.AssemblyInfo.cs
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\chuyen_doi_tien_te\obj\Debug\net7.0\chuyen_doi_tien_te.csproj.CoreCompileInputs.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\chuyen_doi_tien_te\bin\Debug\net7.0\chuyen_doi_tien_te.exe
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\chuyen_doi_tien_te\bin\Debug\net7.0\chuyen_doi_tien_te.deps.json
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\chuyen_doi_tien_te\bin\Debug\net7.0\chuyen_doi_tien_te.runtimeconfig.json
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\chuyen_doi_tien_te\bin\Debug\net7.0\chuyen_doi_tien_te.dll
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\chuyen_doi_tien_te\bin\Debug\net7.0\chuyen_doi_tien_te.pdb
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\chuyen_doi_tien_te\obj\Debug\net7.0\chuyen_doi_tien_te.dll
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\chuyen_doi_tien_te\obj\Debug\net7.0\refint\chuyen_doi_tien_te.dll
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\chuyen_doi_tien_te\obj\Debug\net7.0\chuyen_doi_tien_te.pdb
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\chuyen_doi_tien_te\obj\Debug\net7.0\chuyen_doi_tien_te.genruntimeconfig.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\chuyen_doi_tien_te\obj\Debug\net7.0\ref\chuyen_doi_tien_te.dll

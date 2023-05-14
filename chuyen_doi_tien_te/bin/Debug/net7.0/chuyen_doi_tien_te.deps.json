@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "chuyen_doi_tien_te/1.0.0": {
+        "runtime": {
+          "chuyen_doi_tien_te.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "chuyen_doi_tien_te/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

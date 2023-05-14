@@ -1,0 +1,15 @@
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\hien_thi_loi_chao\bin\Debug\net7.0\hien_thi_loi_chao.exe
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\hien_thi_loi_chao\bin\Debug\net7.0\hien_thi_loi_chao.deps.json
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\hien_thi_loi_chao\bin\Debug\net7.0\hien_thi_loi_chao.runtimeconfig.json
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\hien_thi_loi_chao\bin\Debug\net7.0\hien_thi_loi_chao.dll
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\hien_thi_loi_chao\bin\Debug\net7.0\hien_thi_loi_chao.pdb
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\hien_thi_loi_chao\obj\Debug\net7.0\hien_thi_loi_chao.csproj.AssemblyReference.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\hien_thi_loi_chao\obj\Debug\net7.0\hien_thi_loi_chao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\hien_thi_loi_chao\obj\Debug\net7.0\hien_thi_loi_chao.AssemblyInfoInputs.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\hien_thi_loi_chao\obj\Debug\net7.0\hien_thi_loi_chao.AssemblyInfo.cs
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\hien_thi_loi_chao\obj\Debug\net7.0\hien_thi_loi_chao.csproj.CoreCompileInputs.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\hien_thi_loi_chao\obj\Debug\net7.0\hien_thi_loi_chao.dll
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\hien_thi_loi_chao\obj\Debug\net7.0\refint\hien_thi_loi_chao.dll
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\hien_thi_loi_chao\obj\Debug\net7.0\hien_thi_loi_chao.pdb
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\hien_thi_loi_chao\obj\Debug\net7.0\hien_thi_loi_chao.genruntimeconfig.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\hien_thi_loi_chao\obj\Debug\net7.0\ref\hien_thi_loi_chao.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "hien_thi_loi_chao/1.0.0": {
+        "runtime": {
+          "hien_thi_loi_chao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hien_thi_loi_chao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
