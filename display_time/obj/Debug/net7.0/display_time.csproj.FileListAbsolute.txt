@@ -1,0 +1,15 @@
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\display_time\bin\Debug\net7.0\display_time.exe
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\display_time\bin\Debug\net7.0\display_time.deps.json
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\display_time\bin\Debug\net7.0\display_time.runtimeconfig.json
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\display_time\bin\Debug\net7.0\display_time.dll
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\display_time\bin\Debug\net7.0\display_time.pdb
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\display_time\obj\Debug\net7.0\display_time.csproj.AssemblyReference.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\display_time\obj\Debug\net7.0\display_time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\display_time\obj\Debug\net7.0\display_time.AssemblyInfoInputs.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\display_time\obj\Debug\net7.0\display_time.AssemblyInfo.cs
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\display_time\obj\Debug\net7.0\display_time.csproj.CoreCompileInputs.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\display_time\obj\Debug\net7.0\display_time.dll
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\display_time\obj\Debug\net7.0\refint\display_time.dll
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\display_time\obj\Debug\net7.0\display_time.pdb
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\display_time\obj\Debug\net7.0\display_time.genruntimeconfig.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\display_time\obj\Debug\net7.0\ref\display_time.dll
