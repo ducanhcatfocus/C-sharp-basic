@@ -1,0 +1,15 @@
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\toan_tu\bin\Debug\net7.0\toan_tu.exe
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\toan_tu\bin\Debug\net7.0\toan_tu.deps.json
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\toan_tu\bin\Debug\net7.0\toan_tu.runtimeconfig.json
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\toan_tu\bin\Debug\net7.0\toan_tu.dll
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\toan_tu\bin\Debug\net7.0\toan_tu.pdb
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\toan_tu\obj\Debug\net7.0\toan_tu.csproj.AssemblyReference.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\toan_tu\obj\Debug\net7.0\toan_tu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\toan_tu\obj\Debug\net7.0\toan_tu.AssemblyInfoInputs.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\toan_tu\obj\Debug\net7.0\toan_tu.AssemblyInfo.cs
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\toan_tu\obj\Debug\net7.0\toan_tu.csproj.CoreCompileInputs.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\toan_tu\obj\Debug\net7.0\toan_tu.dll
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\toan_tu\obj\Debug\net7.0\refint\toan_tu.dll
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\toan_tu\obj\Debug\net7.0\toan_tu.pdb
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\toan_tu\obj\Debug\net7.0\toan_tu.genruntimeconfig.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\toan_tu\obj\Debug\net7.0\ref\toan_tu.dll
