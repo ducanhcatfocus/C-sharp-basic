@@ -1,0 +1,8 @@
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Cau_dieu_kien\Tinh_can_nang\Tinh_can_nang\bin\Debug\Tinh_can_nang.exe.config
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Cau_dieu_kien\Tinh_can_nang\Tinh_can_nang\bin\Debug\Tinh_can_nang.exe
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Cau_dieu_kien\Tinh_can_nang\Tinh_can_nang\bin\Debug\Tinh_can_nang.pdb
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Cau_dieu_kien\Tinh_can_nang\Tinh_can_nang\obj\Debug\Tinh_can_nang.csproj.AssemblyReference.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Cau_dieu_kien\Tinh_can_nang\Tinh_can_nang\obj\Debug\Tinh_can_nang.csproj.SuggestedBindingRedirects.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Cau_dieu_kien\Tinh_can_nang\Tinh_can_nang\obj\Debug\Tinh_can_nang.csproj.CoreCompileInputs.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Cau_dieu_kien\Tinh_can_nang\Tinh_can_nang\obj\Debug\Tinh_can_nang.exe
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Cau_dieu_kien\Tinh_can_nang\Tinh_can_nang\obj\Debug\Tinh_can_nang.pdb

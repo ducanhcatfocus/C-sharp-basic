@@ -1,0 +1,8 @@
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Cau_dieu_kien\doc_so_thanh_chu\doc_so_thanh_chu\bin\Debug\doc_so_thanh_chu.exe.config
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Cau_dieu_kien\doc_so_thanh_chu\doc_so_thanh_chu\bin\Debug\doc_so_thanh_chu.exe
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Cau_dieu_kien\doc_so_thanh_chu\doc_so_thanh_chu\bin\Debug\doc_so_thanh_chu.pdb
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Cau_dieu_kien\doc_so_thanh_chu\doc_so_thanh_chu\obj\Debug\doc_so_thanh_chu.csproj.AssemblyReference.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Cau_dieu_kien\doc_so_thanh_chu\doc_so_thanh_chu\obj\Debug\doc_so_thanh_chu.csproj.SuggestedBindingRedirects.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Cau_dieu_kien\doc_so_thanh_chu\doc_so_thanh_chu\obj\Debug\doc_so_thanh_chu.csproj.CoreCompileInputs.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Cau_dieu_kien\doc_so_thanh_chu\doc_so_thanh_chu\obj\Debug\doc_so_thanh_chu.exe
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Cau_dieu_kien\doc_so_thanh_chu\doc_so_thanh_chu\obj\Debug\doc_so_thanh_chu.pdb

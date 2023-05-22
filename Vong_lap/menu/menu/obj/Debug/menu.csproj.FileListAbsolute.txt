@@ -1,0 +1,8 @@
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Vong_lap\menu\menu\bin\Debug\menu.exe.config
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Vong_lap\menu\menu\bin\Debug\menu.exe
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Vong_lap\menu\menu\bin\Debug\menu.pdb
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Vong_lap\menu\menu\obj\Debug\menu.csproj.AssemblyReference.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Vong_lap\menu\menu\obj\Debug\menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Vong_lap\menu\menu\obj\Debug\menu.csproj.CoreCompileInputs.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Vong_lap\menu\menu\obj\Debug\menu.exe
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Vong_lap\menu\menu\obj\Debug\menu.pdb
