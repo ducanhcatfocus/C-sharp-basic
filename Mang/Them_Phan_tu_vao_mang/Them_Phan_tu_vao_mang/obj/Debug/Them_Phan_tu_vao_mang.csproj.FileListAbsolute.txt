@@ -1,0 +1,8 @@
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Mang\Them_Phan_tu_vao_mang\Them_Phan_tu_vao_mang\bin\Debug\Them_Phan_tu_vao_mang.exe.config
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Mang\Them_Phan_tu_vao_mang\Them_Phan_tu_vao_mang\bin\Debug\Them_Phan_tu_vao_mang.exe
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Mang\Them_Phan_tu_vao_mang\Them_Phan_tu_vao_mang\bin\Debug\Them_Phan_tu_vao_mang.pdb
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Mang\Them_Phan_tu_vao_mang\Them_Phan_tu_vao_mang\obj\Debug\Them_Phan_tu_vao_mang.csproj.AssemblyReference.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Mang\Them_Phan_tu_vao_mang\Them_Phan_tu_vao_mang\obj\Debug\Them_Phan_tu_vao_mang.csproj.SuggestedBindingRedirects.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Mang\Them_Phan_tu_vao_mang\Them_Phan_tu_vao_mang\obj\Debug\Them_Phan_tu_vao_mang.csproj.CoreCompileInputs.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Mang\Them_Phan_tu_vao_mang\Them_Phan_tu_vao_mang\obj\Debug\Them_Phan_tu_vao_mang.exe
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Mang\Them_Phan_tu_vao_mang\Them_Phan_tu_vao_mang\obj\Debug\Them_Phan_tu_vao_mang.pdb

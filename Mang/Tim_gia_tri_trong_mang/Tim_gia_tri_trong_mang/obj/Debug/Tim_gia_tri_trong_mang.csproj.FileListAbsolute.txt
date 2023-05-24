@@ -1,0 +1,8 @@
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Mang\Tim_gia_tri_trong_mang\Tim_gia_tri_trong_mang\bin\Debug\Tim_gia_tri_trong_mang.exe.config
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Mang\Tim_gia_tri_trong_mang\Tim_gia_tri_trong_mang\bin\Debug\Tim_gia_tri_trong_mang.exe
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Mang\Tim_gia_tri_trong_mang\Tim_gia_tri_trong_mang\bin\Debug\Tim_gia_tri_trong_mang.pdb
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Mang\Tim_gia_tri_trong_mang\Tim_gia_tri_trong_mang\obj\Debug\Tim_gia_tri_trong_mang.csproj.AssemblyReference.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Mang\Tim_gia_tri_trong_mang\Tim_gia_tri_trong_mang\obj\Debug\Tim_gia_tri_trong_mang.csproj.SuggestedBindingRedirects.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Mang\Tim_gia_tri_trong_mang\Tim_gia_tri_trong_mang\obj\Debug\Tim_gia_tri_trong_mang.csproj.CoreCompileInputs.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Mang\Tim_gia_tri_trong_mang\Tim_gia_tri_trong_mang\obj\Debug\Tim_gia_tri_trong_mang.exe
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Mang\Tim_gia_tri_trong_mang\Tim_gia_tri_trong_mang\obj\Debug\Tim_gia_tri_trong_mang.pdb
