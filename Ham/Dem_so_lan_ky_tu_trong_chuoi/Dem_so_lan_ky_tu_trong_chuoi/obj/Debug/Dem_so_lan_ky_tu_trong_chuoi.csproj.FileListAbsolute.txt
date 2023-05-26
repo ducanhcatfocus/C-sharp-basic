@@ -1,0 +1,8 @@
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Ham\Dem_so_lan_ky_tu_trong_chuoi\Dem_so_lan_ky_tu_trong_chuoi\bin\Debug\Dem_so_lan_ky_tu_trong_chuoi.exe.config
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Ham\Dem_so_lan_ky_tu_trong_chuoi\Dem_so_lan_ky_tu_trong_chuoi\bin\Debug\Dem_so_lan_ky_tu_trong_chuoi.exe
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Ham\Dem_so_lan_ky_tu_trong_chuoi\Dem_so_lan_ky_tu_trong_chuoi\bin\Debug\Dem_so_lan_ky_tu_trong_chuoi.pdb
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Ham\Dem_so_lan_ky_tu_trong_chuoi\Dem_so_lan_ky_tu_trong_chuoi\obj\Debug\Dem_so_lan_ky_tu_trong_chuoi.csproj.AssemblyReference.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Ham\Dem_so_lan_ky_tu_trong_chuoi\Dem_so_lan_ky_tu_trong_chuoi\obj\Debug\Dem_so_lan_ky_tu_trong_chuoi.csproj.SuggestedBindingRedirects.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Ham\Dem_so_lan_ky_tu_trong_chuoi\Dem_so_lan_ky_tu_trong_chuoi\obj\Debug\Dem_so_lan_ky_tu_trong_chuoi.csproj.CoreCompileInputs.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Ham\Dem_so_lan_ky_tu_trong_chuoi\Dem_so_lan_ky_tu_trong_chuoi\obj\Debug\Dem_so_lan_ky_tu_trong_chuoi.exe
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Ham\Dem_so_lan_ky_tu_trong_chuoi\Dem_so_lan_ky_tu_trong_chuoi\obj\Debug\Dem_so_lan_ky_tu_trong_chuoi.pdb

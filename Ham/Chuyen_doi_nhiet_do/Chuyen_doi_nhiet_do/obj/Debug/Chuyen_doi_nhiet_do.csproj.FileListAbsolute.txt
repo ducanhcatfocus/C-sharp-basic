@@ -1,0 +1,8 @@
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Ham\Chuyen_doi_nhiet_do\Chuyen_doi_nhiet_do\bin\Debug\Chuyen_doi_nhiet_do.exe.config
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Ham\Chuyen_doi_nhiet_do\Chuyen_doi_nhiet_do\bin\Debug\Chuyen_doi_nhiet_do.exe
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Ham\Chuyen_doi_nhiet_do\Chuyen_doi_nhiet_do\bin\Debug\Chuyen_doi_nhiet_do.pdb
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Ham\Chuyen_doi_nhiet_do\Chuyen_doi_nhiet_do\obj\Debug\Chuyen_doi_nhiet_do.csproj.AssemblyReference.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Ham\Chuyen_doi_nhiet_do\Chuyen_doi_nhiet_do\obj\Debug\Chuyen_doi_nhiet_do.csproj.SuggestedBindingRedirects.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Ham\Chuyen_doi_nhiet_do\Chuyen_doi_nhiet_do\obj\Debug\Chuyen_doi_nhiet_do.csproj.CoreCompileInputs.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Ham\Chuyen_doi_nhiet_do\Chuyen_doi_nhiet_do\obj\Debug\Chuyen_doi_nhiet_do.exe
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Ham\Chuyen_doi_nhiet_do\Chuyen_doi_nhiet_do\obj\Debug\Chuyen_doi_nhiet_do.pdb

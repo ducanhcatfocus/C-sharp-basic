@@ -1,0 +1,8 @@
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Mang\do_min\do_min\bin\Debug\do_min.exe.config
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Mang\do_min\do_min\bin\Debug\do_min.exe
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Mang\do_min\do_min\bin\Debug\do_min.pdb
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Mang\do_min\do_min\obj\Debug\do_min.csproj.AssemblyReference.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Mang\do_min\do_min\obj\Debug\do_min.csproj.SuggestedBindingRedirects.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Mang\do_min\do_min\obj\Debug\do_min.csproj.CoreCompileInputs.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Mang\do_min\do_min\obj\Debug\do_min.exe
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Mang\do_min\do_min\obj\Debug\do_min.pdb
