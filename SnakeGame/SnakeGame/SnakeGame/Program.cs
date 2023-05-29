@@ -268,7 +268,7 @@ namespace SnakeGame
                         {
                             if (j == tailX[k] && i == tailY[k])
                             {
-                                Console.Write("$");
+                                Console.Write((k+1) % 10);
                                 isprinted = true;
                                 break;
                             }
