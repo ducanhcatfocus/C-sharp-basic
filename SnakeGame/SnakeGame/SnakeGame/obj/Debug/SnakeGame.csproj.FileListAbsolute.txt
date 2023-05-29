@@ -1,0 +1,8 @@
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\SnakeGame\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe.config
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\SnakeGame\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\SnakeGame\SnakeGame\SnakeGame\bin\Debug\SnakeGame.pdb
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\SnakeGame\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.AssemblyReference.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\SnakeGame\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\SnakeGame\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\SnakeGame\SnakeGame\SnakeGame\obj\Debug\SnakeGame.exe
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\SnakeGame\SnakeGame\SnakeGame\obj\Debug\SnakeGame.pdb
