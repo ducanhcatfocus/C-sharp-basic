@@ -19,7 +19,7 @@ namespace SnakeGame
         const int panel = 10;
         bool gameOver, reset, isprinted, horizontal, vertical;
         string dir, pre_dir;
-        int renderTime = 200;
+        int renderTime = 150;
         int countSuper = 0;
 
 
@@ -286,7 +286,7 @@ namespace SnakeGame
 
             if (isSuperFruit)
             {
-                Console.WriteLine("Time super fruit remaining: " + times);
+                Console.WriteLine("Time super fruit remaining: " + times + " ");
 
             }
             else
