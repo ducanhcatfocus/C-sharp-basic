@@ -1,0 +1,8 @@
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Huong Doi Tuong\Xay_Dung_Lop_Animal\Xay_Dung_Lop_Animal\bin\Debug\Xay_Dung_Lop_Animal.exe.config
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Huong Doi Tuong\Xay_Dung_Lop_Animal\Xay_Dung_Lop_Animal\bin\Debug\Xay_Dung_Lop_Animal.exe
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Huong Doi Tuong\Xay_Dung_Lop_Animal\Xay_Dung_Lop_Animal\bin\Debug\Xay_Dung_Lop_Animal.pdb
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Huong Doi Tuong\Xay_Dung_Lop_Animal\Xay_Dung_Lop_Animal\obj\Debug\Xay_Dung_Lop_Animal.csproj.AssemblyReference.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Huong Doi Tuong\Xay_Dung_Lop_Animal\Xay_Dung_Lop_Animal\obj\Debug\Xay_Dung_Lop_Animal.csproj.SuggestedBindingRedirects.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Huong Doi Tuong\Xay_Dung_Lop_Animal\Xay_Dung_Lop_Animal\obj\Debug\Xay_Dung_Lop_Animal.csproj.CoreCompileInputs.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Huong Doi Tuong\Xay_Dung_Lop_Animal\Xay_Dung_Lop_Animal\obj\Debug\Xay_Dung_Lop_Animal.exe
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Huong Doi Tuong\Xay_Dung_Lop_Animal\Xay_Dung_Lop_Animal\obj\Debug\Xay_Dung_Lop_Animal.pdb

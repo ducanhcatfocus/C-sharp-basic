@@ -1,0 +1,8 @@
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Huong Doi Tuong\Xay_dung_lop_ StopWatch\Xay_dung_lop_ StopWatch\bin\Debug\Xay_dung_lop_ StopWatch.exe.config
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Huong Doi Tuong\Xay_dung_lop_ StopWatch\Xay_dung_lop_ StopWatch\bin\Debug\Xay_dung_lop_ StopWatch.exe
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Huong Doi Tuong\Xay_dung_lop_ StopWatch\Xay_dung_lop_ StopWatch\bin\Debug\Xay_dung_lop_ StopWatch.pdb
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Huong Doi Tuong\Xay_dung_lop_ StopWatch\Xay_dung_lop_ StopWatch\obj\Debug\Xay_dung_lop_ StopWatch.csproj.AssemblyReference.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Huong Doi Tuong\Xay_dung_lop_ StopWatch\Xay_dung_lop_ StopWatch\obj\Debug\Xay_dung_lop_ StopWatch.csproj.SuggestedBindingRedirects.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Huong Doi Tuong\Xay_dung_lop_ StopWatch\Xay_dung_lop_ StopWatch\obj\Debug\Xay_dung_lop_ StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Huong Doi Tuong\Xay_dung_lop_ StopWatch\Xay_dung_lop_ StopWatch\obj\Debug\Xay_dung_lop_ StopWatch.exe
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Huong Doi Tuong\Xay_dung_lop_ StopWatch\Xay_dung_lop_ StopWatch\obj\Debug\Xay_dung_lop_ StopWatch.pdb

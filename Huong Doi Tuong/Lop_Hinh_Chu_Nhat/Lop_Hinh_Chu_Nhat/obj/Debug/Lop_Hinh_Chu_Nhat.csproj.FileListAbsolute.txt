@@ -1,0 +1,8 @@
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Huong Doi Tuong\Lop_Hinh_Chu_Nhat\Lop_Hinh_Chu_Nhat\bin\Debug\Lop_Hinh_Chu_Nhat.exe.config
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Huong Doi Tuong\Lop_Hinh_Chu_Nhat\Lop_Hinh_Chu_Nhat\bin\Debug\Lop_Hinh_Chu_Nhat.exe
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Huong Doi Tuong\Lop_Hinh_Chu_Nhat\Lop_Hinh_Chu_Nhat\bin\Debug\Lop_Hinh_Chu_Nhat.pdb
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Huong Doi Tuong\Lop_Hinh_Chu_Nhat\Lop_Hinh_Chu_Nhat\obj\Debug\Lop_Hinh_Chu_Nhat.csproj.AssemblyReference.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Huong Doi Tuong\Lop_Hinh_Chu_Nhat\Lop_Hinh_Chu_Nhat\obj\Debug\Lop_Hinh_Chu_Nhat.csproj.SuggestedBindingRedirects.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Huong Doi Tuong\Lop_Hinh_Chu_Nhat\Lop_Hinh_Chu_Nhat\obj\Debug\Lop_Hinh_Chu_Nhat.csproj.CoreCompileInputs.cache
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Huong Doi Tuong\Lop_Hinh_Chu_Nhat\Lop_Hinh_Chu_Nhat\obj\Debug\Lop_Hinh_Chu_Nhat.exe
+C:\Users\anhnd\OneDrive\Desktop\C#\C-sharp-basic\Huong Doi Tuong\Lop_Hinh_Chu_Nhat\Lop_Hinh_Chu_Nhat\obj\Debug\Lop_Hinh_Chu_Nhat.pdb
