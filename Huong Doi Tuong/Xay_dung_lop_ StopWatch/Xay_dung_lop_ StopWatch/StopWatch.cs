@@ -31,16 +31,14 @@ namespace Xay_dung_lop__StopWatch
             endTime = DateTime.Now;
         }
 
-        public long GetElapsedTime()
+        public double GetElapsedTime()
         {
-            return DateTime.Now.Ticks - startTime.Ticks;
+            return (endTime - startTime).TotalMilliseconds;
         }
 
 
-        public long SelectionSortTime(int[] arr, int n)
+        public void SelectionSortTime(int[] arr, int n)
         {
-            startTime = DateTime.Now;
-
             int i, j, min_idx;
             for (i = 0; i < n - 1; i++)
             {
@@ -54,8 +52,6 @@ namespace Xay_dung_lop__StopWatch
                
                 (arr[min_idx], arr[i]) = (arr[i], arr[min_idx]);
             }
-            endTime = DateTime.Now;
-            return endTime.Ticks - startTime.Ticks;
         }
     }
 }

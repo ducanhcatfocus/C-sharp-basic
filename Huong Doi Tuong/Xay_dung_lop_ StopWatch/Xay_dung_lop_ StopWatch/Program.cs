@@ -13,15 +13,18 @@ namespace Xay_dung_lop__StopWatch
             StopWatch sw = new StopWatch();
             Random rnd = new Random();
 
-            int[] arr = new int[10000];
+            int n = 100000;
+            int[] arr = new int[n];
 
-            for (int i = 0; i < arr.Length; i++)
+            for (int i = 0; i < n; i++)
             {
                 arr[i] = rnd.Next(0,1000);
                 Console.WriteLine(arr[i]);
             }
-
-            Console.WriteLine("Times: " + sw.SelectionSortTime(arr, 10000));
+            sw.Start();
+            sw.SelectionSortTime(arr, n);
+            sw.Stop();
+            Console.WriteLine("Times: " + sw.GetElapsedTime());
             Console.ReadKey();
         }
     }
