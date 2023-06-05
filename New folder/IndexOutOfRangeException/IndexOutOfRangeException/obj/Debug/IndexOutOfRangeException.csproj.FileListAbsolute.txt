@@ -1,0 +1,8 @@
+C:\Users\dell\source\repos\ducanhcatfocus\C-sharp-basic\New folder\IndexOutOfRangeException\IndexOutOfRangeException\bin\Debug\IndexOutOfRangeException.exe.config
+C:\Users\dell\source\repos\ducanhcatfocus\C-sharp-basic\New folder\IndexOutOfRangeException\IndexOutOfRangeException\bin\Debug\IndexOutOfRangeException.exe
+C:\Users\dell\source\repos\ducanhcatfocus\C-sharp-basic\New folder\IndexOutOfRangeException\IndexOutOfRangeException\bin\Debug\IndexOutOfRangeException.pdb
+C:\Users\dell\source\repos\ducanhcatfocus\C-sharp-basic\New folder\IndexOutOfRangeException\IndexOutOfRangeException\obj\Debug\IndexOutOfRangeException.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\ducanhcatfocus\C-sharp-basic\New folder\IndexOutOfRangeException\IndexOutOfRangeException\obj\Debug\IndexOutOfRangeException.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\source\repos\ducanhcatfocus\C-sharp-basic\New folder\IndexOutOfRangeException\IndexOutOfRangeException\obj\Debug\IndexOutOfRangeException.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\ducanhcatfocus\C-sharp-basic\New folder\IndexOutOfRangeException\IndexOutOfRangeException\obj\Debug\IndexOutOfRangeException.exe
+C:\Users\dell\source\repos\ducanhcatfocus\C-sharp-basic\New folder\IndexOutOfRangeException\IndexOutOfRangeException\obj\Debug\IndexOutOfRangeException.pdb
