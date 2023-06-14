@@ -1,0 +1,8 @@
+C:\Users\dell\Desktop\C-sharp-basic\File\CGO_file\CGO_file\bin\Debug\CGO_file.exe.config
+C:\Users\dell\Desktop\C-sharp-basic\File\CGO_file\CGO_file\bin\Debug\CGO_file.exe
+C:\Users\dell\Desktop\C-sharp-basic\File\CGO_file\CGO_file\bin\Debug\CGO_file.pdb
+C:\Users\dell\Desktop\C-sharp-basic\File\CGO_file\CGO_file\obj\Debug\CGO_file.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\C-sharp-basic\File\CGO_file\CGO_file\obj\Debug\CGO_file.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\Desktop\C-sharp-basic\File\CGO_file\CGO_file\obj\Debug\CGO_file.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\C-sharp-basic\File\CGO_file\CGO_file\obj\Debug\CGO_file.exe
+C:\Users\dell\Desktop\C-sharp-basic\File\CGO_file\CGO_file\obj\Debug\CGO_file.pdb
